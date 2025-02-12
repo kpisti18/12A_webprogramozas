@@ -11,7 +11,7 @@
 - [Change Event](https://kpisti18.github.io/12A_webprogramozas/9_change_event)
 - [Topjoy - nyílt napra](https://kpisti18.github.io/12A_webprogramozas/9_topjoy_nyilt_nap)
 - [DOMContentLoaded Event](https://kpisti18.github.io/12A_webprogramozas/10_DOMContentLoad_event)
-- [DOMContentLoaded + Dinamikus elemek](https://kpisti18.github.io/10_DOMContentLoad_event_teljesen_dinamikus)
+- [DOMContentLoaded + Dinamikus elemek](https://kpisti18.github.io/12A_webprogramozas/10_DOMContentLoad_event_teljesen_dinamikus)
 - [DOMContentLoaded + Dinamikus elemek továbbgondolva](https://kpisti18.github.io/12A_webprogramozas/10_DOMContentLoad_event_teljesen_dinamikus_továbbgondolva)
 - [Keypress Event](https://kpisti18.github.io/12A_webprogramozas/11_keypress_event)
 - [Mouseover Event](https://kpisti18.github.io/12A_webprogramozas/12_mouseover_event)
