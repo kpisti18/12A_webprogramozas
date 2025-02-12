@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-image: url('./images/background.jpg');
+    background-size: cover;
+}
+
+.tarolo-meret{
+    height: 400px;
+    width: 250px;
+}
+
+.kep-meret{
+    height: 400px;
+    width: 250px;
+}
+
+.szoveg-tarolo-meret{
+    height: 250px;
+    width: 250px;
+}

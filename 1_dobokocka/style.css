@@ -1,0 +1,17 @@
+body {
+    background-color: #DC3545;
+    font-family: Arial, Helvetica, sans-serif;
+    /* reszponzivitáshoz */
+    display: flex;
+    justify-content: center; /* vízszintesen középre igazítja a flexen belüli elemeket */
+    align-items: center; /* függőlegeen igazítja */
+    height: 100vh;
+    margin: 0;
+}
+
+#dice {
+    color: white;
+    font-size: 5rem;
+    font-weight: bold;
+    user-select: none; /*  a kijelölhetőség ltávolítása */
+}
